@@ -1,0 +1,28 @@
+name: Micah Redding
+favicon: null
+layout_spectrum: 0.27724912064149976
+typography_spectrum: 0.17401088285259902
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5056952789891511
+  lightness: 0.5498149590566754
+  saturation: 0.7220469682943076
+  rhythmicContrast: 0.09799849265255034
+purpose: []

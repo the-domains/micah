@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Micah Redding]]></title>
         <description><![CDATA[Micah Redding]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/micah/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 19:02:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Aug 2016 19:38:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/micah/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Sample and Option</p>]]></description>
-            <link>undefined5706d678-af5a-45ca-99a7-c2f5d2ff93d1/index.html</link>
+            <link>https://thegrid.ai/micah/5706d678-af5a-45ca-99a7-c2f5d2ff93d1/index.html</link>
             <guid isPermaLink="false">5706d678-af5a-45ca-99a7-c2f5d2ff93d1</guid>
-            <pubDate>Sat, 27 Feb 2016 19:02:05 GMT</pubDate>
+            <pubDate>Thu, 25 Aug 2016 19:38:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
